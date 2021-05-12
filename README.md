@@ -8,7 +8,7 @@ Los colores son: 1 - Verde (Zona estable) / 2 - Amarillo (Zona en observación) 
 
 # Zonas del semáforo
 
-Las zonas se pueden visualizar en https://edovtp.shinyapps.io/Proyecto-covid/
+Las zonas se pueden visualizar en https://edovtp.shinyapps.io/semaforo-San-Pedro/
 
 # Tipo de muestra
 
