@@ -1,6 +1,6 @@
-# Semáforo de carga viral en la comuna de San Pedro de la Paz en la Región del Bío Bío
+# Semáforo Poop COVID-19 en la comuna de San Pedro de la Paz en la Región del Bío Bío
 
-Archivo que da cuenta del semáforo de carga viral para la comuna de San Pedro de la Paz en la Región del Bío Bío por fechas y zona de la comuna. 
+El semáforo Poop COVID-19 es una herramienta que permite conocer con anticipación el alza o baja de circulacón viral del COVID-19 en las aguas servidas. 
 
 # Colores del semáforo
 
