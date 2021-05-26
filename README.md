@@ -4,7 +4,7 @@ Archivo que da cuenta del semáforo de carga viral para la comuna de San Pedro d
 
 # Colores del semáforo
 
-Los colores son: 1 - Verde (Zona estable) / 2 - Amarillo (Zona en observación) / 3 - Naranjo (Zona en pre-alerta) / 4 - Rojo (Zona en alerta).
+Los colores son: 1 - Verde (Prevencion) / 2 - Amarillo (Precaución) / 3 - Naranjo (Alerta) / 4 - Rojo (Grave).
 
 # Zonas del semáforo
 
